@@ -1,5 +1,5 @@
 {
-  "asandevapi": "http://azhadev.karmanapp.ir/public",
+  "asandevapi": "https://azhadev.karmanapp.ir/public",
   "asandev": "http://localhost:3000",
   "token": {
     "token": "$2y$10$A3ZGZse.sP/wrECyegGmp.Pg.DXJwXSYEt4wdvMpWBPjjJ9HW68JO"
